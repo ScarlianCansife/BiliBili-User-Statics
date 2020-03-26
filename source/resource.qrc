@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="bilibili">images/bilibili.png</file>
+        <file alias="2233">images/2233.png</file>
+        <file alias="waite">images/waite3.png</file>
+        <file>images/waite4.png</file>
+        <file>images/uidlink.png</file>
+        <file alias="error">images/missing.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="add">images/add.png</file>
+        <file>images/add4.png</file>
+        <file>images/add5.png</file>
+    </qresource>
+</RCC>
